@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![MasterHead](https://media.discordapp.net/attachments/936889496136474664/946344693220900914/20220224_152424.jpg)
 <h1 align="center">Hello , I'm Yuvraj</h1>
 <h3 align="center">Im discord bot developer if you want to contact with me then dm me on discord my discord user name - it's Yuvraj#5844 or join my server</h3>
-<img align="right" alt="Coding" width="400" src="https://thinkinfoservices.com/wp-content/uploads/2021/03/digital-marketing-php-developer-jobs-surat-gujarat-india.gif">
+<img align="right" alt="Coding" width="400" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
 - 🔭 I’m currently working on **Yuvi Economy**
 
 - 🌱 I’m currently learning **Discord.js , Html , css , js**
