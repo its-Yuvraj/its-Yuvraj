@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-yuvraj&label=Profile%20views&color=3557b5&style=flat" alt="its-yuvraj" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **Yuvi Economy**
 
 - 🌱 I’m currently learning **Discord.js , Html , css , js**
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - ✨ Join our Community - **https://discord.link/ItsYuvraj**
 
 - ⚡ Fun fact **I think I'm best developer xd just kidding**
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.link/ItsYuvraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.link/ItsYuvraj" height="30" width="40" /></a>
