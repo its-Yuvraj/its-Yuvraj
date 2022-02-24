@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hello , I'm Yuvraj</h1>
 <h3 align="center">Im discord bot developer if you want to contact with me then dm me on discord my discord user name - it's Yuvraj#5844 or join my server</h3>
 
-<p align="left"> <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/278/datas/original.gif" alt="its-yuvraj" /> </p>
-
-<img align="right" alt="Coding" width="400" src="https://www.successsensation.com/wp-content/uploads/2021/02/b1.3.gif">
 - 🔭 I’m currently working on **Yuvi Economy**
 
 - 🌱 I’m currently learning **Discord.js , Html , css , js**
