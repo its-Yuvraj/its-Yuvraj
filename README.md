@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello , I'm Yuvraj</h1>
 <h3 align="center">Im discord bot developer if you want to contact with me then dm me on discord my discord user name - it's Yuvraj#5844 or join my server</h3>
 <img align="right" alt="Coding" width="220" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
+
 - 🔭 I’m currently working on **Yuvi Economy**
 
 - 🌱 I’m currently learning **Discord.js , Html , css , js**
