@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-yuvraj&show_icons=true&text_color=ffffff&bg_color=000000&locale=en" alt="its-yuvraj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-yuvraj&theme=white" alt="its-yuvraj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-yuvraj&theme=black" alt="its-yuvraj" /></p>
