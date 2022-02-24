@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://media.discordapp.net/attachments/936889496136474664/946344693220900914/20220224_152424.jpg)
+[![MasterHead](https://media.discordapp.net/attachments/936889496136474664/946344693220900914/20220224_152424.jpg)]
 <h1 align="center">Hello , I'm Yuvraj</h1>
 <h3 align="center">Im discord bot developer if you want to contact with me then dm me on discord my discord user name - it's Yuvraj#5844 or join my server</h3>
 
